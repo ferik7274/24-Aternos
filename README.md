@@ -30,7 +30,7 @@
 
 ## `Features`
 
- * Supports Minecraft 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19 and 1.20.
+ * Supports Minecraft 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20, and 1.21
  * Anti-AFK
  * chat control
  * auto respawn
@@ -89,8 +89,8 @@ Running on your computer
  * File needs to be edited:
 
 ```js
-host: "localhost",
-port: "25565",
+host: "Zero",
+port: "24252",
 username: "24ATERNOSBOT"
 ```
  * node bot.js
